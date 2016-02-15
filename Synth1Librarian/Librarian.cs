@@ -1,0 +1,30 @@
+﻿using System;
+using System.IO;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Synth1Librarian
+{
+    public partial class Librarian : Form
+    {
+        public Librarian()
+        {
+            InitializeComponent();
+        }
+
+        private void Librarian_Load(object sender, EventArgs e)
+        {
+
+        }
+
+       
+    }
+
+
+}
